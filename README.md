@@ -8,10 +8,10 @@
 <P> Apart from being a tech enthusiast, I am passionate about self-development. I thrive on exploring new technologies and enhancing
   my skills continuously. My journey involves constant learning and staying updated with the latest developments in the tech world.</P>
 <h1 align="left"> 🚀 Skills</h1>
-<P>Languages: Javascript, php</P>
+<P>Languages: Javascript, Typescript, HTML, CSS,</P>
 <P> Frontend: HTML, CSS, Javascript React Next.js</P>
-<P> Backend:  Javascript node.js</P>
-<P> framework:  Bootstrap Tailwind css </P>
+<P> Backend:  Javascript, node.js</P>
+<P> framework:  Bootstrap, Tailwind css </P>
 
 <h1 align="left"> 🛠️ project</h1>
 <P>I've worked on numerous projects, implementing efficient solutions using the above-mentioned technologies. Feel free to check them out in my repositories!</P>
