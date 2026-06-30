@@ -5,7 +5,7 @@
 
 <!-- Typing animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF9B&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Three.js+%7C+React+Native+%7C+Framer+Motion;Building+real+products+for+real+people+%F0%9F%8C%8D;400%2B+users+on+Coursify+%E2%9C%A8;Hackathon+Winner+%F0%9F%8F%86+%7C+First+Class+Honours" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF9B&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Three.js+%7C+React+Native+%7C+Framer+Motion;Building+real+products+for+real+people+%F0%9F%8C%8D;800%2B+users+on+Coursify+%E2%9C%A8;Hackathon+Winner+%F0%9F%8F%86+%7C+First+Class+Honours" alt="Typing SVG" />
 </div>
 
 <br/>
