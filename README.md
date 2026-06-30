@@ -14,7 +14,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Experience-3%2B%20Years-00FF9B?style=for-the-badge&logoColor=black&labelColor=0a0a0a"/>
   <img src="https://img.shields.io/badge/Projects-7%2B%20Live-00FF9B?style=for-the-badge&logoColor=black&labelColor=0a0a0a"/>
-  <img src="https://img.shields.io/badge/Users-400%2B%20on%20Coursify-00FF9B?style=for-the-badge&logoColor=black&labelColor=0a0a0a"/>
+  <img src="https://img.shields.io/badge/Users-800%2B%20on%20Coursify-00FF9B?style=for-the-badge&logoColor=black&labelColor=0a0a0a"/>
   <img src="https://img.shields.io/badge/Grade-First%20Class-00FF9B?style=for-the-badge&logoColor=black&labelColor=0a0a0a"/>
 </div>
 
@@ -36,7 +36,7 @@ const josiah = {
   learning:          ["Three.js / WebGL", "React Native advanced patterns"],
   achievements:      ["🏆 Hackathon Winner — Alpinist 2024", "🎯 Top 5 — HackFest 2024"],
 
-  funFact: "I built a platform with 400+ users while still in university 🎓",
+  funFact: "I built a platform with 800+ users while still in university 🎓",
 };
 ```
 
@@ -95,7 +95,7 @@ const josiah = {
     <td width="50%">
       <h3>📚 Coursify</h3>
       <p>University resource-sharing platform built for Landmark University students — past questions, study materials, community feeds.</p>
-      <p><strong>400+ active users</strong> · Next.js · TypeScript · Supabase</p>
+      <p><strong>800+ active users</strong> · Next.js · TypeScript · Supabase</p>
       <a href="https://coursify.dev">
         <img src="https://img.shields.io/badge/Live-coursify.dev-00FF9B?style=for-the-badge&labelColor=0a0a0a"/>
       </a>
